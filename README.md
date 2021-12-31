@@ -18,7 +18,7 @@ How our entire app works
 - Step 6: Connect with Frontend
 - Step 7: Build the package
 
-#The specifications for our API Server are:
+# The specifications for our API Server are:
 
 - It listens to port 8000 on localhost
 - It has 5 endpoints: healthz, createItem, getCompletedItems, getIncompleteItems, updateItemand deleteItem
